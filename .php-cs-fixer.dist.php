@@ -2,6 +2,7 @@
 
 /*
  * This file is part of the Kamal/toastr package.
+ *
  * (c) Kamal Essam <kessam1@outlook.com>
  */
 
