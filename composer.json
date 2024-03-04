@@ -1,5 +1,5 @@
 {
-    "name": "Kamal/toastr",
+    "name": "Kessam/toastr",
     "description": "toastr.js flush notifications for Laravel",
     "license": "MIT",
     "type": "library",
@@ -35,12 +35,12 @@
             "role": "Developer"
         }
     ],
-    "homepage": "https://github.com/Kamal/toastr",
+    "homepage": "https://github.com/Kessam/toastr",
     "support": {
         "email": "younes.khoubza@gmail.com",
-        "issues": "https://github.com/Kamal/toastr/issues",
-        "source": "https://github.com/Kamal/toastr",
-        "docs": "https://github.com/Kamal/toastr/README.md"
+        "issues": "https://github.com/Kessam/toastr/issues",
+        "source": "https://github.com/Kessam/toastr",
+        "docs": "https://github.com/Kessam/toastr/README.md"
     },
     "require": {
         "php": ">=5.3",
@@ -50,7 +50,7 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "Kamal\\Toastr\\": "src"
+            "Kessam\\Toastr\\": "src"
         },
         "files": [
             "src/helpers.php"
@@ -62,10 +62,10 @@
     "extra": {
         "laravel": {
             "aliases": {
-                "Toastr": "Kamal\\Toastr\\Facades\\Toastr"
+                "Toastr": "Kessam\\Toastr\\Facades\\Toastr"
             },
             "providers": [
-                "Kamal\\Toastr\\ToastrServiceProvider"
+                "Kessam\\Toastr\\ToastrServiceProvider"
             ]
         }
     }

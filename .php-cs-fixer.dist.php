@@ -1,13 +1,13 @@
 <?php
 
 /*
- * This file is part of the Kamal/toastr package.
+ * This file is part of the Kessam/toastr package.
  *
  * (c) Kamal Essam <kessam1@outlook.com>
  */
 
 $header = <<<'EOF'
-This file is part of the Kamal/toastr package.
+This file is part of the Kessam/toastr package.
 (c) Kamal Essam <kessam1@outlook.com>
 EOF;
 

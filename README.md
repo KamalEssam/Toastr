@@ -3,10 +3,10 @@
 <p align="center">:eyes: This package helps you to add <a href="https://github.com/CodeSeven/toastr">toastr.js</a> notifications to your Laravel projects.</p>
 
 <p align="center">
-    <a href="https://packagist.org/packages/Kamal/toastr"><img src="https://poser.pugx.org/Kamal/toastr/v/stable" alt="Latest Stable Version"></a>
-    <a href="https://packagist.org/packages/Kamal/toastr"><img src="https://poser.pugx.org/Kamal/toastr/v/unstable" alt="Latest Unstable Version"></a>
-    <a href="https://packagist.org/packages/Kamal/toastr"><img src="https://poser.pugx.org/Kamal/toastr/downloads" alt="Total Downloads"></a>
-    <a href="https://packagist.org/packages/Kamal/toastr"><img src="https://poser.pugx.org/Kamal/toastr/license" alt="License"></a>
+    <a href="https://packagist.org/packages/Kessam/toastr"><img src="https://poser.pugx.org/Kessam/toastr/v/stable" alt="Latest Stable Version"></a>
+    <a href="https://packagist.org/packages/Kessam/toastr"><img src="https://poser.pugx.org/Kessam/toastr/v/unstable" alt="Latest Unstable Version"></a>
+    <a href="https://packagist.org/packages/Kessam/toastr"><img src="https://poser.pugx.org/Kessam/toastr/downloads" alt="Total Downloads"></a>
+    <a href="https://packagist.org/packages/Kessam/toastr"><img src="https://poser.pugx.org/Kessam/toastr/license" alt="License"></a>
 </p>
 
 <p align="center"><img width="300" alt="toastr" src="https://user-images.githubusercontent.com/10859693/39634578-1a9f121a-4fb3-11e8-8863-d64fad42901b.png"></p>
@@ -16,7 +16,7 @@
 You can install the package using composer
 
 ```sh
-composer require Kamal/toastr
+composer require Kessam/toastr
 ```
 
 ## Usage:
