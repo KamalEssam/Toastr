@@ -29,18 +29,18 @@
     ],
     "authors": [
         {
-            "name": "Younes KHOUBZA",
-            "email": "younes.khoubza@gmail.com",
-            "homepage": "https://www.linkedin.com/in/younes-khoubza",
-            "role": "Developer"
+            "name": "Kamal Essam",
+            "email": "kesssam1@outlook.com",
+            "homepage": "https://www.linkedin.com/in/kamalessam/",
+            "role": "Software Engineer"
         }
     ],
-    "homepage": "https://github.com/Kessam/toastr",
+    "homepage": "https://github.com/KamalEssam/toastr",
     "support": {
-        "email": "younes.khoubza@gmail.com",
-        "issues": "https://github.com/Kessam/toastr/issues",
-        "source": "https://github.com/Kessam/toastr",
-        "docs": "https://github.com/Kessam/toastr/README.md"
+        "email": "kesssam1@outlook.com",
+        "issues": "https://github.com/KamalEssam/toastr/issues",
+        "source": "https://github.com/KamalEssam/toastr",
+        "docs": "https://github.com/KamalEssam/toastr/README.md"
     },
     "require": {
         "php": ">=5.3",
