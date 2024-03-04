@@ -1,5 +1,5 @@
 {
-    "name": "Kessam/toastr",
+    "name": "kessam/toastr",
     "description": "toastr.js flush notifications for Laravel",
     "license": "MIT",
     "type": "library",
