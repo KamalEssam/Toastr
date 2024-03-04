@@ -170,7 +170,7 @@ For a list of available options, see [toastr.js' documentation](https://github.c
 
 ## Credits
 
-- [Younes Khoubza](https://github.com/Kamal)
+- [Kamal Essam](https://github.com/KamalEssam)
 - [All Contributors](../../contributors)
 
 ## License
