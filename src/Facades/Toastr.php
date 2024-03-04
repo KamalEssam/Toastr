@@ -5,16 +5,16 @@
  * (c) Kamal Essam <kessam1@outlook.com>
  */
 
-namespace Kamal\Toastr\Facades;
+namespace Kessam\Toastr\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @method static \Kamal\Toastr\Toastr error(string $message, string $title = '', array $options = [])
- * @method static \Kamal\Toastr\Toastr info(string $message, string $title = '', array $options = [])
- * @method static \Kamal\Toastr\Toastr success(string $message, string $title = '', array $options = [])
- * @method static \Kamal\Toastr\Toastr warning(string $message, string $title = '', array $options = [])
- * @method static \Kamal\Toastr\Toastr addNotification(string $type, string $message, string $title = '', array $options = [])
+ * @method static \Kessam\Toastr\Toastr error(string $message, string $title = '', array $options = [])
+ * @method static \Kessam\Toastr\Toastr info(string $message, string $title = '', array $options = [])
+ * @method static \Kessam\Toastr\Toastr success(string $message, string $title = '', array $options = [])
+ * @method static \Kessam\Toastr\Toastr warning(string $message, string $title = '', array $options = [])
+ * @method static \Kessam\Toastr\Toastr addNotification(string $type, string $message, string $title = '', array $options = [])
  */
 class Toastr extends Facade
 {

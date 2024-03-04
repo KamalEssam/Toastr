@@ -5,7 +5,7 @@
  * (c) Kamal Essam <kessam1@outlook.com>
  */
 
-use Kamal\Toastr\Toastr;
+use Kessam\Toastr\Toastr;
 
 if (!function_exists('toastr')) {
     /**

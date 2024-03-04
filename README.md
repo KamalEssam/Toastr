@@ -105,7 +105,7 @@ So
 As optional if you want to modify the default configuration, you can publish the configuration file:
  
 ```sh
-php artisan vendor:publish --provider="Kamal\Toastr\ToastrServiceProvider"
+php artisan vendor:publish --provider="Kessam\Toastr\ToastrServiceProvider"
 ```
 
 ```php

@@ -5,7 +5,7 @@
  * (c) Kamal Essam <kessam1@outlook.com>
  */
 
-namespace Kamal\Toastr;
+namespace Kessam\Toastr;
 
 use Flasher\Laravel\Support\ServiceProvider;
 
@@ -69,6 +69,6 @@ class ToastrServiceProvider extends ServiceProvider
             return new Toastr($app['flasher.toastr'], $options);
         });
 
-        $this->app->alias('toastr', 'Kamal\Toastr\Toastr');
+        $this->app->alias('toastr', 'Kessam\Toastr\Toastr');
     }
 }

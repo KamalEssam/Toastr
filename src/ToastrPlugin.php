@@ -5,7 +5,7 @@
  * (c) Kamal Essam <kessam1@outlook.com>
  */
 
-namespace Kamal\Toastr;
+namespace Kessam\Toastr;
 
 use Flasher\Prime\Plugin\Plugin;
 
